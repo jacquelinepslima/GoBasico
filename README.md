@@ -47,10 +47,19 @@ The repository is organized as follows:
 Contributions are welcome! To contribute:
 
 1. Fork the repository.
-2. Create a branch for your feature (git checkout -b feature/your-feature).
-3. Commit your changes (git commit -am 'Add new feature').
-4. Push to the branch (git push origin feature/your-feature).
-5. Open a Pull Request.
+3. Create a branch for your feature
+```bash
+git checkout -b feature/your-feature
+```
+5. Commit your changes
+```bash
+git commit -am 'Add new feature'
+```
+7. Push to the branch
+```bash
+git push origin feature/your-feature
+```
+9. Open a Pull Request.
 
 ### Author
 #### @jacquelinepslima
